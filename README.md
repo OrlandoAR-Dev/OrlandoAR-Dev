@@ -1,6 +1,4 @@
 <div align="center">
-  
-```json
 {
   "nombre": "Tu Nombre Completo",
   "alias": "tu_username",
@@ -38,7 +36,7 @@
     "animal_favorito": "🐱 Gatos (también me gustan los perros)"
   }
 }
-
+<div/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OrlandoAR-Dev/OrlandoAR-Dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OrlandoAR-Dev/OrlandoAR-Dev/output/pacman-contribution-graph.svg">
